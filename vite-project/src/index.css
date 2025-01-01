@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    color: #fff;
+}
+body {
+background-color: black;
+}
+#hidescroll::-webkit-scrollbar{
+    
+        display: none; 
+     
+}
+#scrollnahi::-webkit-scrollbar{
+    
+    display: none; 
+ 
+}
